@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (Windows) or Windows App (Mac)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -20,8 +20,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Computer with a solid internet connection
 - Microsoft account
 - Microsoft Azure w/ a free trial or subscription
-- Ability to install Remote Desktop Connection (Windows) or Windows App (Mac)
-- Item 5
+- Ability to install Remote Desktop (Windows) or Windows App (Mac)
+  
 
 <h2>Installation Steps</h2>
 
