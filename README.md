@@ -23,12 +23,10 @@ Click here to view my SOP:
 
 
 <h2>List of Prerequisites</h2>
+-Before we start the lab, we will need to create another virtual machine.  If you need a quick refresher, here is a brief crash course. 
+It should only take you a few minutes.
 
-- Computer with a solid internet connection
-- Microsoft account
-- Microsoft Azure w/ a free trial or subscription
-- Ability to install Remote Desktop (Windows) or Windows App (Mac)
-  
+
 
 <h2>Installation Steps</h2>
 
