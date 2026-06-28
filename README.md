@@ -15,16 +15,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 11</b> (21H2)
 
-## SOP Documentation
-
-Click here to view my SOP:
-
-[OS Ticket SOP](<iframe src="https://scribehow.com/embed/Creating_A_New_Virtual_Machine_In_Azure__vKueWi14S5e6ggOdNupJEg" width="800" height="679" allow="fullscreen" style="aspect-ratio: 1 / 1; border: 0; min-height: 480px"></iframe>)
-
 
 <h2>List of Prerequisites</h2>
--Before we start the lab, we will need to create another virtual machine.  If you need a quick refresher, here is a brief crash course. 
-It should only take you a few minutes.
+-Before we start the lab, we will need to create another virtual machine.  If you need a quick refresher, here is a brief crash course I made for you.  It should only take you a few minutes.
+
+https://scribehow.com/embed/Creating_A_New_Virtual_Machine_In_Azure__vKueWi14S5e6ggOdNupJEg
+
 
 
 
